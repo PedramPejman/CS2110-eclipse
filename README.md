@@ -20,8 +20,8 @@ Directions
 1. Download the zipped package via the "Download ZIP" Button on the right side-bar
 2. Unzip it with WinZip (or some other software) - Note where you are unzipping it to
 3. Open Eclipse and choose "Import..."
-4. Choose "Existing Projects into Workspace" under "General"
-5. Leave everything as is and finish the importing process
+4. Choose "Existing Projects into Workspace" under "General" 
+5. choose the directory where you unzipped the project to and finish the importing process
 6. If you have followed Google's directions when downloading Eclipse and ADT, everything should work fine. 
 7. Follow the directions provided on Collab for building and uploading the code onto your device.
 8. If and when things go wrong, refer to the next section.
