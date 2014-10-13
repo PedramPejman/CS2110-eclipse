@@ -12,7 +12,8 @@ clone the repository using "Git Bash." If you do not, then you should be able to
 sidebar. 
 
 Remember, Google is your friend. If you have any questions, please try to find a similar question on StackOverFlow.com before asking other people - 9/10, any question you have has been asked and answered on there.
-Setting up coding environments sucks - there is no way around it. I'm sorry I can't be of that much help in this particular process, but like I said, any problem you encounter has been answered. It's just a matter of you digging around and finding it..fun fun fun! :)
+Android is EXTREMELY nice about giving you meaningful error messages. They can be found in the console or logcat, depending on the type of the error. If you do not understand the error message, Google it and 9/10, you will get 10+ EXACT matches. Then read the highest rated solution and apply it to your situation. It may take a bit of time.. but this is basically coding 101 :/
+Setting up coding environments sucks - there is no way around it. I'm sorry I can't be of that much help in this particular process, but like I said, any problem you encounter has been answered. It's just a matter of you digging around and finding an answer to it..fun fun fun! :)
 
 Happy coding!
 
